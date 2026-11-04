@@ -198,223 +198,209 @@
   },
   {
    "rank": 29,
-   "title": "Riverdale",
-   "start": 2017,
-   "end": 2023,
-   "imdb": null
-  },
-  {
-   "rank": 30,
    "title": "Veronica Mars",
    "start": 2004,
    "end": 2019,
    "imdb": 8.3
   },
   {
-   "rank": 31,
+   "rank": 30,
    "title": "Revolution",
    "start": 2012,
    "end": 2014,
    "imdb": null
   },
   {
-   "rank": 32,
+   "rank": 31,
    "title": "How I Met Your Mother",
    "start": 2005,
    "end": 2014,
    "imdb": 8.3
   },
   {
-   "rank": 33,
+   "rank": 32,
    "title": "Sex Education",
    "start": 2019,
    "end": 2023,
    "imdb": 8.2
   },
   {
-   "rank": 34,
+   "rank": 33,
    "title": "Spartacus",
    "start": 2010,
    "end": 2013,
    "imdb": null
   },
   {
-   "rank": 35,
+   "rank": 34,
    "title": "Limitless",
    "start": 2015,
    "end": 2016,
    "imdb": 7.6
   },
   {
-   "rank": 36,
-   "title": "The Flash",
-   "start": 2014,
-   "end": 2023,
-   "imdb": null
-  },
-  {
-   "rank": 37,
+   "rank": 35,
    "title": "Lost",
    "start": 2004,
    "end": 2010,
    "imdb": 8.3
   },
   {
-   "rank": 38,
+   "rank": 36,
    "title": "A Teacher",
    "start": 2020,
    "end": null,
    "imdb": 6.9
   },
   {
-   "rank": 39,
+   "rank": 37,
    "title": "On My Block",
    "start": 2018,
    "end": 2021,
    "imdb": 7.8
   },
   {
-   "rank": 40,
+   "rank": 38,
    "title": "Vampire Diaries",
    "start": 2009,
    "end": 2017,
    "imdb": 7.7
   },
   {
-   "rank": 41,
+   "rank": 39,
    "title": "Smallville",
    "start": 2001,
    "end": 2011,
    "imdb": 7.5
   },
   {
-   "rank": 42,
+   "rank": 40,
    "title": "Victorious",
    "start": 2010,
    "end": 2013,
    "imdb": 7
   },
   {
-   "rank": 43,
+   "rank": 41,
    "title": "Death Note",
    "start": 2006,
    "end": null,
    "imdb": null
   },
   {
-   "rank": 44,
+   "rank": 42,
    "title": "Lucifer",
    "start": 2016,
    "end": 2021,
    "imdb": 8
   },
   {
-   "rank": 45,
+   "rank": 43,
    "title": "Nikita",
    "start": 2010,
    "end": 2013,
    "imdb": null
   },
   {
-   "rank": 46,
+   "rank": 44,
    "title": "Brooklyn 99",
    "start": 2013,
    "end": 2021,
    "imdb": 8.4
   },
   {
-   "rank": 47,
+   "rank": 45,
    "title": "Love, Death and Robots",
    "start": 2019,
    "end": null,
    "imdb": null
   },
   {
-   "rank": 48,
+   "rank": 46,
    "title": "Joey",
    "start": 2004,
    "end": 2006,
    "imdb": 6
   },
   {
-   "rank": 49,
+   "rank": 47,
    "title": "Chernobyl",
    "start": 2019,
    "end": null,
    "imdb": 9.3
   },
   {
-   "rank": 50,
+   "rank": 48,
    "title": "Big Little Lies",
    "start": 2017,
    "end": 2019,
    "imdb": null
   },
   {
-   "rank": 51,
+   "rank": 49,
    "title": "A Love So Beautiful",
    "start": 2017,
    "end": null,
    "imdb": null
   },
   {
-   "rank": 52,
+   "rank": 50,
    "title": "Almost Human",
    "start": 2013,
    "end": 2014,
    "imdb": null
   },
   {
-   "rank": 53,
+   "rank": 51,
    "title": "Insatiable",
    "start": 2018,
    "end": 2019,
    "imdb": null
   },
   {
-   "rank": 54,
+   "rank": 52,
    "title": "Teen Wolf",
    "start": 2011,
    "end": 2017,
    "imdb": null
   },
   {
-   "rank": 55,
+   "rank": 53,
    "title": "H2O",
    "start": 2006,
    "end": 2010,
    "imdb": null
   },
   {
-   "rank": 56,
+   "rank": 54,
    "title": "The Tomorrow People",
    "start": 2013,
    "end": 2014,
    "imdb": null
   },
   {
-   "rank": 57,
+   "rank": 55,
    "title": "Ravenswood",
    "start": 2013,
    "end": 2014,
    "imdb": null
   },
   {
-   "rank": 58,
+   "rank": 56,
    "title": "Swamp Thing",
    "start": 2019,
    "end": null,
    "imdb": null
   },
   {
-   "rank": 59,
+   "rank": 57,
    "title": "Put Your Head On My Shoulder",
    "start": 2019,
    "end": null,
    "imdb": null
   },
   {
-   "rank": 60,
+   "rank": 58,
    "title": "The Detour",
    "start": 2016,
    "end": 2019,
@@ -430,6 +416,15 @@
   },
   {
    "title": "Prison Break"
+  },
+  {
+   "title": "Stranger Things"
+  },
+  {
+   "title": "The Flash"
+  },
+  {
+   "title": "Riverdale"
   }
  ],
  "wishlist": [
@@ -576,11 +571,6 @@
   {
    "title": "Witcher",
    "start": 2019,
-   "imdb": null
-  },
-  {
-   "title": "Stranger Things",
-   "start": 2016,
    "imdb": null
   },
   {
