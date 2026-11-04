@@ -457,69 +457,6 @@
   },
   {
    "rank": 66,
-   "title": "Invincible",
-   "start": null,
-   "end": null,
-   "imdb": null
-  },
-  {
-   "rank": 67,
-   "title": "The Batman",
-   "start": null,
-   "end": null,
-   "imdb": null
-  },
-  {
-   "rank": 68,
-   "title": "The Blacklist",
-   "start": null,
-   "end": null,
-   "imdb": null
-  },
-  {
-   "rank": 69,
-   "title": "The Originals",
-   "start": null,
-   "end": null,
-   "imdb": null
-  },
-  {
-   "rank": 70,
-   "title": "Squid Game",
-   "start": null,
-   "end": null,
-   "imdb": null
-  },
-  {
-   "rank": 71,
-   "title": "Legacies",
-   "start": null,
-   "end": null,
-   "imdb": null
-  },
-  {
-   "rank": 72,
-   "title": "Legion",
-   "start": null,
-   "end": null,
-   "imdb": null
-  },
-  {
-   "rank": 73,
-   "title": "Westworld",
-   "start": null,
-   "end": null,
-   "imdb": null
-  },
-  {
-   "rank": 74,
-   "title": "Breaking Bad",
-   "start": null,
-   "end": null,
-   "imdb": null
-  },
-  {
-   "rank": 75,
    "title": "Prison Break",
    "start": null,
    "end": null,
@@ -629,6 +566,51 @@
    "title": "True Detective",
    "start": 2014,
    "imdb": null
+  },
+  {
+   "title": "Invincible",
+   "start": null,
+   "imdb": null
+  },
+  {
+   "title": "The Batman",
+   "start": null,
+   "imdb": null
+  },
+  {
+   "title": "The Blacklist",
+   "start": null,
+   "imdb": null
+  },
+  {
+   "title": "The Originals",
+   "start": null,
+   "imdb": null
+  },
+  {
+   "title": "Squid Game",
+   "start": null,
+   "imdb": null
+  },
+  {
+   "title": "Legacies",
+   "start": null,
+   "imdb": null
+  },
+  {
+   "title": "Legion",
+   "start": null,
+   "imdb": null
+  },
+  {
+   "title": "Westworld",
+   "start": null,
+   "imdb": null
+  },
+  {
+   "title": "Breaking Bad",
+   "start": null,
+   "imdb": 9.4
   }
  ]
 }
