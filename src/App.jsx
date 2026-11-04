@@ -11,7 +11,7 @@ function enrich(s) {
   return {
     ...s,
     start: s.start ?? t.firstYear,
-    end: 'end' in s ? (s.start ? s.end : t.lastYear) : undefined,
+    end: 'end' in s ? (s.end ?? t.lastYear) : undefined,
     tmdb: t,
   }
 }
