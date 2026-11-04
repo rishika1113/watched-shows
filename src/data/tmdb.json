@@ -1,0 +1,1307 @@
+{
+ "90210": {
+  "id": 5917,
+  "name": "90210",
+  "poster": "/6uy8Le8X8qqvc5X7pSFn3BJA69M.jpg",
+  "overview": "90210 revolves around several students at the fictional West Beverly Hills High School, including new Beverly Hills residents Annie Wilson and Dixon Wilson. Their father, Harry Wilson, has returned from Kansas to his Beverly Hills childhood home with his family to care for his mother, former television and theater actress Tabitha Wilson, who has a drinking problem and clashes with his wife Debbie Wilson. Annie and Dixon struggle to adjust to their new lives while making friends and yet adhering to their parents' wishes.",
+  "firstYear": 2008,
+  "lastYear": 2013,
+  "seasons": 5,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "Friends": {
+  "id": 1668,
+  "name": "Friends",
+  "poster": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+  "overview": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
+  "firstYear": 1994,
+  "lastYear": 2004,
+  "seasons": 10,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "Sherlock": {
+  "id": 19885,
+  "name": "Sherlock",
+  "poster": "/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+  "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+  "firstYear": 2010,
+  "lastYear": 2017,
+  "seasons": 4,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ]
+ },
+ "Game of Thrones": {
+  "id": 1399,
+  "name": "Game of Thrones",
+  "poster": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+  "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+  "firstYear": 2011,
+  "lastYear": 2019,
+  "seasons": 8,
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Drama",
+   "Action & Adventure"
+  ]
+ },
+ "Arcane": {
+  "id": 94605,
+  "name": "Arcane",
+  "poster": "/87C0wecB8bHb1PsrKBI4kJiEkgV.jpg",
+  "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+  "firstYear": 2021,
+  "lastYear": 2024,
+  "seasons": 2,
+  "genres": [
+   "Animation",
+   "Action & Adventure",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "12 Monkeys": {
+  "id": 60948,
+  "name": "12 Monkeys",
+  "poster": "/w5u1PqBYfDyfrlkxADTA38jYG3I.jpg",
+  "overview": "The provocative story of Cole, a time traveler from a decimated future in a high-stakes race against the clock. Utilizing a dangerous and untested method of time travel, he journeys from 2043 to the present day on a mission to locate and eradicate the source of a deadly plague that will all but annihilate the human race.",
+  "firstYear": 2015,
+  "lastYear": 2018,
+  "seasons": 4,
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Drama"
+  ]
+ },
+ "Vikings": {
+  "id": 44217,
+  "name": "Vikings",
+  "poster": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+  "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+  "firstYear": 2013,
+  "lastYear": 2020,
+  "seasons": 6,
+  "genres": [
+   "Action & Adventure",
+   "Drama",
+   "War & Politics"
+  ]
+ },
+ "Peaky Blinders": {
+  "id": 60574,
+  "name": "Peaky Blinders",
+  "poster": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+  "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+  "firstYear": 2013,
+  "lastYear": 2022,
+  "seasons": 6,
+  "genres": [
+   "Drama",
+   "Crime"
+  ]
+ },
+ "One Tree Hill": {
+  "id": 269,
+  "name": "One Tree Hill",
+  "poster": "/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
+  "overview": "In Tree Hill, North Carolina two half brothers share a last name and nothing else. Brooding, blue-collar Lucas is a talented street-side basketball player, but his skills are appreciated only by his friends at the river court. Popular, affluent Nathan basks in the hero-worship of the town, as the star of his high school team. And both boys are the son of former college ball player Dan Scott whose long ago choice to abandon Lucas and his mother Karen, will haunt him long into his life with wife Deb and their son Nathan.",
+  "firstYear": 2003,
+  "lastYear": 2012,
+  "seasons": 9,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "The 100": {
+  "id": 48866,
+  "name": "The 100",
+  "poster": "/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
+  "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+  "firstYear": 2014,
+  "lastYear": 2020,
+  "seasons": 7,
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Action & Adventure",
+   "Drama",
+   "Crime"
+  ]
+ },
+ "13 Reasons Why": {
+  "id": 66788,
+  "name": "13 Reasons Why",
+  "poster": "/nel144y4dIOdFFid6twN5mAX9Yd.jpg",
+  "overview": "High school student Clay Jensen lands in the center of a series of heartbreaking mysteries set in motion by a friend's tragic suicide.",
+  "firstYear": 2017,
+  "lastYear": 2020,
+  "seasons": 4,
+  "genres": [
+   "Drama",
+   "Mystery"
+  ]
+ },
+ "Blue Mountain State": {
+  "id": 31941,
+  "name": "Blue Mountain State",
+  "poster": "/lPAOv8kE2AuD4jliyJ6ziKQIAGi.jpg",
+  "overview": "Three incoming freshman in a big-time, Midwestern college football program have to juggle football, girls, class and nonstop hazing.",
+  "firstYear": 2010,
+  "lastYear": 2011,
+  "seasons": 3,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "Travelers": {
+  "id": 67683,
+  "name": "Travelers",
+  "poster": "/aUVeyeyTrQrSFuUkqLCT8FtV7pp.jpg",
+  "overview": "Hundreds of years from now, the last surviving humans discover the means of sending consciousness back through time, directly into people in the 21st century. These \"travelers\" assume the lives of seemingly random people, while secretly working as teams to perform missions in order to save humanity from a terrible future.",
+  "firstYear": 2016,
+  "lastYear": 2018,
+  "seasons": 3,
+  "genres": [
+   "Drama",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Cobra Kai": {
+  "id": 77169,
+  "name": "Cobra Kai",
+  "poster": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+  "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+  "firstYear": 2018,
+  "lastYear": 2025,
+  "seasons": 6,
+  "genres": [
+   "Action & Adventure",
+   "Drama",
+   "Comedy"
+  ]
+ },
+ "Orphan Black": {
+  "id": 56296,
+  "name": "Orphan Black",
+  "poster": "/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
+  "overview": "A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.",
+  "firstYear": 2013,
+  "lastYear": 2017,
+  "seasons": 5,
+  "genres": [
+   "Drama",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Altered Carbon": {
+  "id": 68421,
+  "name": "Altered Carbon",
+  "poster": "/AisK4uFsnwwmMkSynFpNl0VeGR.jpg",
+  "overview": "After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder.",
+  "firstYear": 2018,
+  "lastYear": 2020,
+  "seasons": 2,
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Drama"
+  ]
+ },
+ "Pretty Little Liars": {
+  "id": 31917,
+  "name": "Pretty Little Liars",
+  "poster": "/aUPbHiLS3hCHKjtLsncFa9g0viV.jpg",
+  "overview": "Based on the Pretty Little Liars series of young adult novels by Sara Shepard, the series follows the lives of four girls — Spencer, Hanna, Aria, and Emily — whose clique falls apart after the disappearance of their queen bee, Alison. One year later, they begin receiving messages from someone using the name \"A\" who threatens to expose their secrets — including long-hidden ones they thought only Alison knew.",
+  "firstYear": 2010,
+  "lastYear": 2017,
+  "seasons": 7,
+  "genres": [
+   "Drama",
+   "Mystery"
+  ]
+ },
+ "Impractical Jokers": {
+  "id": 59186,
+  "name": "Impractical Jokers",
+  "poster": "/tRLj19YXH9GPiaqlU7GwWyd6G5K.jpg",
+  "overview": "This hidden-camera series follows four lifelong friends -- Brian \"Q\"' Quinn, James \"Murr\"' Murray, Joe Gatto and Sal Vulcano -- who take dares to an outrageous level. To find out who is best under pressure, the guys compete in awkward and outrageous hidden-camera hijinks with the loser performing what is deemed to be the most-mortifying challenge yet.",
+  "firstYear": 2011,
+  "lastYear": null,
+  "seasons": 13,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "Gossip Girl": {
+  "id": 1395,
+  "name": "Gossip Girl",
+  "poster": "/ep03M6KKZGeljOizPEbt3Geja5n.jpg",
+  "overview": "An exclusive group of privileged teens from a posh prep school on Manhattan's Upper East Side whose lives revolve around the blog of the all-knowing albeit ultra-secretive Gossip Girl.",
+  "firstYear": 2007,
+  "lastYear": 2012,
+  "seasons": 6,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "Mr. Bean": {
+  "id": 4327,
+  "name": "Mr. Bean",
+  "poster": "/pUNQV35kDaKuejnXGNiUeEBurNE.jpg",
+  "overview": "Mr Bean turns simple everyday tasks into chaotic situations and will leave you in stitches as he creates havoc wherever he goes.",
+  "firstYear": 1990,
+  "lastYear": 1995,
+  "seasons": 1,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "The Mentalist": {
+  "id": 5920,
+  "name": "The Mentalist",
+  "poster": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+  "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+  "firstYear": 2008,
+  "lastYear": 2015,
+  "seasons": 7,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ]
+ },
+ "Blindspot": {
+  "id": 62710,
+  "name": "Blindspot",
+  "poster": "/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg",
+  "overview": "A vast international plot explodes when a beautiful Jane Doe is discovered naked in Times Square, completely covered in mysterious, intricate tattoos with no memory of who she is or how she got there. But there's one tattoo that is impossible to miss: the name of FBI agent Kurt Weller, emblazoned across her back. \"Jane,\" Agent Weller and the rest of the FBI quickly realize that each mark on her body is a crime to solve, leading them closer to the truth about her identity and the mysteries to be revealed.",
+  "firstYear": 2015,
+  "lastYear": 2020,
+  "seasons": 5,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Action & Adventure"
+  ]
+ },
+ "Falling Skies": {
+  "id": 34967,
+  "name": "Falling Skies",
+  "poster": "/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg",
+  "overview": "Falling Skies opens in the chaotic aftermath of an alien attack that has left most of the world completely incapacitated. In the six months since the initial invasion, the few survivors have banded together outside major cities to begin the difficult task of fighting back. Each day is a test of survival as citizen soldiers work to protect the people in their care while also engaging in an insurgency campaign against the occupying alien force.",
+  "firstYear": 2011,
+  "lastYear": 2015,
+  "seasons": 5,
+  "genres": [
+   "Action & Adventure",
+   "Sci-Fi & Fantasy",
+   "Drama"
+  ]
+ },
+ "Arrow": {
+  "id": 1412,
+  "name": "Arrow",
+  "poster": "/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+  "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+  "firstYear": 2012,
+  "lastYear": 2020,
+  "seasons": 8,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Action & Adventure"
+  ]
+ },
+ "The O.C.": {
+  "id": 2673,
+  "name": "The O.C.",
+  "poster": "/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg",
+  "overview": "Ryan Atwood, a teen from the wrong side of the tracks, moves in with a wealthy family willing to give him a chance. But Ryan's arrival disturbs the status quo of the affluent, privileged community of Newport Beach, California.",
+  "firstYear": 2003,
+  "lastYear": 2007,
+  "seasons": 4,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "11.22.63": {
+  "id": 64464,
+  "name": "11.22.63",
+  "poster": "/1fH41ccMKvgDTbbcCxWWH6fznah.jpg",
+  "overview": "An English teacher travels back in time to prevent the Kennedy assassination, but discovers he is attached to the life he has made in a bygone era.",
+  "firstYear": 2016,
+  "lastYear": 2016,
+  "seasons": 1,
+  "genres": [
+   "Drama",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Scorpion": {
+  "id": 60797,
+  "name": "Scorpion",
+  "poster": "/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg",
+  "overview": "Eccentric genius Walter O’Brien and his team of brilliant misfits comprise the last line of defense against complex, high-tech threats of the modern age. As Homeland Security’s new think tank, O’Brien’s “Scorpion” team includes Toby Curtis, an expert behaviorist who can read anyone; Happy Quinn, a mechanical prodigy; and Sylvester Dodd, a statistics guru.",
+  "firstYear": 2014,
+  "lastYear": 2018,
+  "seasons": 4,
+  "genres": [
+   "Action & Adventure",
+   "Drama",
+   "Crime"
+  ]
+ },
+ "Hart of Dixie": {
+  "id": 39279,
+  "name": "Hart of Dixie",
+  "poster": "/p2CJyyXnAog8lvJPp3Yl8lJuHLm.jpg",
+  "overview": "New Yorker Zoe Hart has it all figured out - after graduating top of her class from medical school, she'll follow in her father's footsteps and become a cardio-thoracic surgeon. But when her dreams fall apart, Zoe decides to work at a small practice in Bluebell, Alabama.",
+  "firstYear": 2011,
+  "lastYear": 2015,
+  "seasons": 4,
+  "genres": [
+   "Drama",
+   "Comedy"
+  ]
+ },
+ "Riverdale": {
+  "id": 69050,
+  "name": "Riverdale",
+  "poster": "/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
+  "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+  "firstYear": 2017,
+  "lastYear": 2023,
+  "seasons": 7,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ]
+ },
+ "Veronica Mars": {
+  "id": 1432,
+  "name": "Veronica Mars",
+  "poster": "/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
+  "overview": "In the fictional town of Neptune, California, student Veronica Mars progresses from high school to college while moonlighting as a private investigator under the tutelage of her detective father.",
+  "firstYear": 2004,
+  "lastYear": 2019,
+  "seasons": 4,
+  "genres": [
+   "Mystery",
+   "Drama",
+   "Comedy"
+  ]
+ },
+ "Revolution": {
+  "id": 1410,
+  "name": "Revolution",
+  "poster": "/pNyg4V6kuDstSSxk6Q9GgaBn4B8.jpg",
+  "overview": "One day, electricity just stopped working and the world was suddenly thrust back into the dark ages. Now, 15 years later, a young woman's life is dramatically changed when a local militia arrives and kills her father, who mysteriously—and unbeknownst to her—had something to do with the blackout. An unlikely group sets out off on a daring journey to find answers about the past in the hopes of reclaiming the future.",
+  "firstYear": 2012,
+  "lastYear": 2014,
+  "seasons": 2,
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Drama"
+  ]
+ },
+ "How I Met Your Mother": {
+  "id": 1100,
+  "name": "How I Met Your Mother",
+  "poster": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+  "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+  "firstYear": 2005,
+  "lastYear": 2014,
+  "seasons": 9,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "Sex Education": {
+  "id": 81356,
+  "name": "Sex Education",
+  "poster": "/bc3bmTdnoKcRuO9xdQKgAbB7Y9Z.jpg",
+  "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+  "firstYear": 2019,
+  "lastYear": 2023,
+  "seasons": 4,
+  "genres": [
+   "Comedy",
+   "Drama"
+  ]
+ },
+ "Spartacus": {
+  "id": 46296,
+  "name": "Spartacus",
+  "poster": "/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+  "overview": "Torn from his homeland and the woman he loves, Spartacus is condemned to the brutal world of the arena where blood and death are primetime entertainment.",
+  "firstYear": 2010,
+  "lastYear": 2013,
+  "seasons": 3,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "Limitless": {
+  "id": 62687,
+  "name": "Limitless",
+  "poster": "/l5BERaKn3ozRTLhoylIiNwMDvax.jpg",
+  "overview": "Brian Finch's life takes an extraordinary turn when he uses NZT-48, a neuroenhancing drug whose mystery and chaos lead him to working for the FBI and a senator who is not what he seems.",
+  "firstYear": 2015,
+  "lastYear": 2016,
+  "seasons": 1,
+  "genres": [
+   "Drama",
+   "Comedy",
+   "Action & Adventure"
+  ]
+ },
+ "The Flash": {
+  "id": 60735,
+  "name": "The Flash",
+  "poster": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+  "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+  "firstYear": 2014,
+  "lastYear": 2023,
+  "seasons": 9,
+  "genres": [
+   "Drama",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Lost": {
+  "id": 4607,
+  "name": "Lost",
+  "poster": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+  "overview": "Stripped of everything, the survivors of a horrific plane crash must work together to stay alive. But the island holds many secrets.",
+  "firstYear": 2004,
+  "lastYear": 2010,
+  "seasons": 6,
+  "genres": [
+   "Mystery",
+   "Action & Adventure",
+   "Drama"
+  ]
+ },
+ "A Teacher": {
+  "id": 103992,
+  "name": "A Teacher",
+  "poster": "/rH2eEuThzRQh87Uxz6SY3BuVNBD.jpg",
+  "overview": "Claire Wilson, a young teacher at a suburban Texas high school, begins an affair with her student, Eric Walker. But their relationship accelerates faster than anticipated and the permanent damage becomes impossible to ignore.",
+  "firstYear": 2020,
+  "lastYear": 2020,
+  "seasons": 1,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "On My Block": {
+  "id": 76747,
+  "name": "On My Block",
+  "poster": "/w6oviv65UEducvjAdH3sYYaxdu2.jpg",
+  "overview": "In a rough Los Angeles neighborhood, four smart, funny and streetwise teens find their lifelong friendship tested as they begin high school.",
+  "firstYear": 2018,
+  "lastYear": 2021,
+  "seasons": 4,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "Vampire Diaries": {
+  "id": 18165,
+  "name": "The Vampire Diaries",
+  "poster": "/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
+  "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+  "firstYear": 2009,
+  "lastYear": 2017,
+  "seasons": 8,
+  "genres": [
+   "Drama",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Smallville": {
+  "id": 4604,
+  "name": "Smallville",
+  "poster": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+  "overview": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen years to Clark Kent’s final steps toward embracing his destiny as the Man of Steel.",
+  "firstYear": 2001,
+  "lastYear": 2011,
+  "seasons": 10,
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Action & Adventure",
+   "Drama"
+  ]
+ },
+ "Victorious": {
+  "id": 31251,
+  "name": "Victorious",
+  "poster": "/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg",
+  "overview": "Aspiring singer Tori Vega navigates life while attending a performing arts high school called Hollywood Arts.",
+  "firstYear": 2010,
+  "lastYear": 2013,
+  "seasons": 4,
+  "genres": [
+   "Comedy",
+   "Kids"
+  ]
+ },
+ "Death Note": {
+  "id": 13916,
+  "name": "Death Note",
+  "poster": "/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+  "overview": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+  "firstYear": 2006,
+  "lastYear": 2007,
+  "seasons": 1,
+  "genres": [
+   "Animation",
+   "Mystery",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Lucifer": {
+  "id": 63174,
+  "name": "Lucifer",
+  "poster": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+  "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+  "firstYear": 2016,
+  "lastYear": 2021,
+  "seasons": 6,
+  "genres": [
+   "Crime",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Nikita": {
+  "id": 32868,
+  "name": "Nikita",
+  "poster": "/762vNuJRCKv4Dw27cSza77YTvJz.jpg",
+  "overview": "Nikita will stop at nothing to expose and destroy Division, the secret U.S. agency who trained her as a spy and assassin.",
+  "firstYear": 2010,
+  "lastYear": 2013,
+  "seasons": 4,
+  "genres": [
+   "Drama",
+   "Action & Adventure"
+  ]
+ },
+ "Brooklyn 99": {
+  "id": 48891,
+  "name": "Brooklyn Nine-Nine",
+  "poster": "/mpjlDzVjp7oyHUe2LaF9ltKe6f1.jpg",
+  "overview": "A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.",
+  "firstYear": 2013,
+  "lastYear": 2021,
+  "seasons": 8,
+  "genres": [
+   "Comedy",
+   "Crime"
+  ]
+ },
+ "Love, Death and Robots": {
+  "id": 86831,
+  "name": "Love, Death & Robots",
+  "poster": "/vL5BQvXH96cJzmNK5n7QliQxy90.jpg",
+  "overview": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher.",
+  "firstYear": 2019,
+  "lastYear": 2025,
+  "seasons": 4,
+  "genres": [
+   "Animation",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Joey": {
+  "id": 1466,
+  "name": "Joey",
+  "poster": "/t4ZQiQZpRDy3g8s4u4zm1mD3Lex.jpg",
+  "overview": "Joey has struck out on his own and moved to Hollywood, hoping to truly make it as an actor. Joey says goodbye to a time when his friends were his family and welcomes the chance to turn his family into his friends. After reuniting with his high-strung sister Gina, a strong and sexy hairdresser, Joey moves in with her genius 20-year-old son, graduate student Michael, who literally is a rocket scientist. What Joey lacks in book smarts, however, he more than makes up for with his people skills, making him the best new friend his nephew could ask for.",
+  "firstYear": 2004,
+  "lastYear": 2006,
+  "seasons": 2,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "Chernobyl": {
+  "id": 87108,
+  "name": "Chernobyl",
+  "poster": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+  "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+  "firstYear": 2019,
+  "lastYear": 2019,
+  "seasons": 1,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "Big Little Lies": {
+  "id": 66292,
+  "name": "Big Little Lies",
+  "poster": "/zxGkno93ExrTMsJVllH6mzQ652z.jpg",
+  "overview": "The tale of three mothers of first graders whose apparently perfect lives unravel to the point of murder.",
+  "firstYear": 2017,
+  "lastYear": 2019,
+  "seasons": 2,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "A Love So Beautiful": {
+  "id": 75387,
+  "name": "A Love So Beautiful",
+  "poster": "/qVtXjxUziCfBdFVOoTbZM5MhndP.jpg",
+  "overview": "The ups and downs of school, family and growing up test the affection between a budding artist and her handsome but indifferent classmate and neighbor.",
+  "firstYear": 2017,
+  "lastYear": 2017,
+  "seasons": 1,
+  "genres": [
+   "Comedy",
+   "Drama"
+  ]
+ },
+ "Almost Human": {
+  "id": 51019,
+  "name": "Almost Human",
+  "poster": "/7KNvabIPtsfR01H1bJwc1sobRUM.jpg",
+  "overview": "The year is 2048. By mandate, every cop must partner with a robot. Detective John Kennex returns to work after waking up from a 17-month coma. As he adjusts to working with his new partner, Dorian, a discontinued android with unexpected emotional responses, John also must learn to get along with his new colleagues.",
+  "firstYear": 2013,
+  "lastYear": 2014,
+  "seasons": 1,
+  "genres": [
+   "Drama",
+   "Crime",
+   "Sci-Fi & Fantasy",
+   "Action & Adventure"
+  ]
+ },
+ "Insatiable": {
+  "id": 80743,
+  "name": "Insatiable",
+  "poster": "/lHZ4xqGQlmyiFTOVtwnNpTcZgkd.jpg",
+  "overview": "A bullied teenager turns to beauty pageants as a way to exact her revenge, with the help of a disgraced coach who soon realizes he's in over his head.",
+  "firstYear": 2018,
+  "lastYear": 2019,
+  "seasons": 2,
+  "genres": [
+   "Drama",
+   "Comedy"
+  ]
+ },
+ "Teen Wolf": {
+  "id": 34524,
+  "name": "Teen Wolf",
+  "poster": "/wjKBTcNy1xihmExqJI8kM2qvavP.jpg",
+  "overview": "Scott McCall, a high school student living in the town of Beacon Hills has his life drastically changed when he's bitten by a werewolf, becoming one himself. He must henceforth learn to balance his problematic new identity with his day-to-day teenage life. The following characters are instrumental to his struggle: Stiles, his best friend; Allison, his love interest who comes from a family of werewolf hunters; and Derek, a mysterious werewolf with a dark past. Throughout the series, he strives to keep his loved ones safe while maintaining normal relationships with them.",
+  "firstYear": 2011,
+  "lastYear": 2017,
+  "seasons": 6,
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Drama",
+   "Comedy"
+  ]
+ },
+ "H2O": {
+  "id": 2260,
+  "name": "H2O: Just Add Water",
+  "poster": "/2z4IKatNXHSDIC2XJgedTS4dsEo.jpg",
+  "overview": "H2O: Just Add Water revolves around three teenage girls facing everyday teen problems with an added twist: they cope with the burden of growing a giant fin and transforming into mermaids whenever they come in contact with water.",
+  "firstYear": 2006,
+  "lastYear": 2010,
+  "seasons": 3,
+  "genres": [
+   "Drama",
+   "Family",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "The Tomorrow People": {
+  "id": 48860,
+  "name": "The Tomorrow People",
+  "poster": "/3EavFY6TuhDm4ERbDGrZ1oEqB57.jpg",
+  "overview": "The story of several young people from around the world who represent the next stage in human evolution, possessing special powers, including the ability to teleport and communicate with each other telepathically. Together they work to defeat the forces of evil.",
+  "firstYear": 2013,
+  "lastYear": 2014,
+  "seasons": 1,
+  "genres": [
+   "Drama",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Ravenswood": {
+  "id": 46958,
+  "name": "Ravenswood",
+  "poster": "/iyHfTSDTSkj4sIGcFCaj2LcqAim.jpg",
+  "overview": "The town of Ravenswood has been suffering from a curse for generations. Five strangers suddenly feel connected by this fatal curse and feel the need to dig in the town's mysterious and horrible history before it's to late for each one of them.",
+  "firstYear": 2013,
+  "lastYear": 2014,
+  "seasons": 1,
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Swamp Thing": {
+  "id": 79240,
+  "name": "Swamp Thing",
+  "poster": "/dD3HcMczLC9wNvfNzx4pZVyl6q8.jpg",
+  "overview": "CDC researcher Abby Arcane investigates what seems to be a deadly swamp-born virus in a small town in Louisiana but she soon discovers that the swamp holds mystical and terrifying secrets. When unexplainable and chilling horrors emerge from the murky marsh, no one is safe.",
+  "firstYear": 2019,
+  "lastYear": 2019,
+  "seasons": 1,
+  "genres": [
+   "Mystery",
+   "Sci-Fi & Fantasy",
+   "Drama"
+  ]
+ },
+ "Put Your Head On My Shoulder": {
+  "id": 88548,
+  "name": "Put Your Head on My Shoulder",
+  "poster": "/iuX0TRkczgbkd1tcJD01lvTWQRl.jpg",
+  "overview": "As Si Tu Mo's graduation is nearing, she is confused about her future plans. Her ordinary days are suddenly shaken up when the genius Physics student Gu Wei Yi appears in her life. The two accidentally end up living together and chaos begins.",
+  "firstYear": 2019,
+  "lastYear": 2019,
+  "seasons": 1,
+  "genres": [
+   "Drama",
+   "Comedy"
+  ]
+ },
+ "The Detour": {
+  "id": 66186,
+  "name": "The Detour",
+  "poster": "/hXR3Vxu8BVtMF9YxRrbCV6fcEWr.jpg",
+  "overview": "A what-in-the-living-hell-is-wrong-with-this-family comedy created by comic super-couple Jason Jones &amp; Samantha Bee and inspired by their own experiences with family trips. Unfiltered dad Nate hits the road with wife Robin and kids Delilah and Jared. Every leg of their trip is fraught with disaster as they encounter one hellish turn after another. If there's trouble on the road, this family will find it and plow into it.",
+  "firstYear": 2016,
+  "lastYear": 2019,
+  "seasons": 4,
+  "genres": [
+   "Comedy"
+  ]
+ },
+ "Witcher": {
+  "id": 71912,
+  "name": "The Witcher",
+  "poster": "/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
+  "overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+  "firstYear": 2019,
+  "lastYear": null,
+  "seasons": 4,
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Action & Adventure"
+  ]
+ },
+ "Stranger Things": {
+  "id": 66732,
+  "name": "Stranger Things",
+  "poster": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+  "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+  "firstYear": 2016,
+  "lastYear": 2025,
+  "seasons": 5,
+  "genres": [
+   "Action & Adventure",
+   "Mystery",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Spartacus - Gods of the Arena": {
+  "id": 46296,
+  "name": "Spartacus",
+  "poster": "/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+  "overview": "Torn from his homeland and the woman he loves, Spartacus is condemned to the brutal world of the arena where blood and death are primetime entertainment.",
+  "firstYear": 2010,
+  "lastYear": 2013,
+  "seasons": 3,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "Ancient Aliens": {
+  "id": 32608,
+  "name": "Ancient Aliens",
+  "poster": "/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+  "overview": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egypt, from early cave drawings to continued mass sightings in the US, each episode gives historic depth to the questions, speculations, provocative controversies, first-hand accounts and grounded theories surrounding this age old debate.",
+  "firstYear": 2010,
+  "lastYear": null,
+  "seasons": 22,
+  "genres": [
+   "Documentary",
+   "Mystery",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Da Vinci's Demons": {
+  "id": 40293,
+  "name": "Da Vinci's Demons",
+  "poster": "/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+  "overview": "The series follows the \"untold\" story of Leonardo Da Vinci: the genius during his early years in Renaissance Florence. As a 25-year old artist, inventor, swordsman, lover, dreamer and idealist, he struggles to live within the confines of his own reality and time as he begins to not only see the future, but invent it.",
+  "firstYear": 2013,
+  "lastYear": 2015,
+  "seasons": 3,
+  "genres": [
+   "Drama"
+  ]
+ },
+ "Invincible": {
+  "id": 95557,
+  "name": "INVINCIBLE",
+  "poster": "/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+  "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+  "firstYear": 2021,
+  "lastYear": null,
+  "seasons": 5,
+  "genres": [
+   "Animation",
+   "Drama",
+   "Sci-Fi & Fantasy",
+   "Action & Adventure"
+  ]
+ },
+ "The Batman": {
+  "id": 2022,
+  "name": "The Batman",
+  "poster": "/3w7koeOR2x71XYMJDGpygxYtScI.jpg",
+  "overview": "A young billionaire Bruce Wayne fights crime and evil as the mysterious vigilante, The Batman.",
+  "firstYear": 2004,
+  "lastYear": 2008,
+  "seasons": 5,
+  "genres": [
+   "Animation",
+   "Sci-Fi & Fantasy",
+   "Action & Adventure",
+   "Kids"
+  ]
+ },
+ "The Blacklist": {
+  "id": 46952,
+  "name": "The Blacklist",
+  "poster": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+  "overview": "Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
+  "firstYear": 2013,
+  "lastYear": 2023,
+  "seasons": 10,
+  "genres": [
+   "Drama",
+   "Crime",
+   "Mystery"
+  ]
+ },
+ "The Originals": {
+  "id": 46896,
+  "name": "The Originals",
+  "poster": "/keJOhJXGiLL54EW6QocbyvQGquA.jpg",
+  "overview": "The Vampire Diaries spin-off that follows the Mikaelsons, a family of millennia-old, power-hungry vampires who want to reclaim the city they built, New Orleans, and dominate all those who have wronged them.",
+  "firstYear": 2013,
+  "lastYear": 2018,
+  "seasons": 5,
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Drama",
+   "Mystery"
+  ]
+ },
+ "Squid Game": {
+  "id": 93405,
+  "name": "Squid Game",
+  "poster": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+  "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+  "firstYear": 2021,
+  "lastYear": 2025,
+  "seasons": 3,
+  "genres": [
+   "Action & Adventure",
+   "Mystery",
+   "Drama"
+  ]
+ },
+ "Legacies": {
+  "id": 79460,
+  "name": "Legacies",
+  "poster": "/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
+  "overview": "In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson’s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman’s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.",
+  "firstYear": 2018,
+  "lastYear": 2022,
+  "seasons": 4,
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Drama"
+  ]
+ },
+ "Westworld": {
+  "id": 63247,
+  "name": "Westworld",
+  "poster": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+  "overview": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+  "firstYear": 2016,
+  "lastYear": 2022,
+  "seasons": 4,
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Western"
+  ]
+ },
+ "Prison Break": {
+  "id": 2288,
+  "name": "Prison Break",
+  "poster": "/wnmNPaLvhnMeOqnWlhNkYCZxtda.jpg",
+  "overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+  "firstYear": 2005,
+  "lastYear": 2017,
+  "seasons": 5,
+  "genres": [
+   "Action & Adventure",
+   "Crime",
+   "Drama"
+  ]
+ },
+ "Planet Earth II": {
+  "id": 68595,
+  "name": "Planet Earth II",
+  "poster": "/5maYKYzWpE68ycxGh1luu4P2LOS.jpg",
+  "overview": "David Attenborough presents a documentary series exploring how animals meet the challenges of surviving in the most iconic habitats on earth.",
+  "firstYear": 2016,
+  "lastYear": 2016,
+  "seasons": 1,
+  "genres": [
+   "Documentary",
+   "Family"
+  ]
+ },
+ "Breaking Bad": {
+  "id": 1396,
+  "name": "Breaking Bad",
+  "poster": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+  "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+  "firstYear": 2008,
+  "lastYear": 2013,
+  "seasons": 5,
+  "genres": [
+   "Drama",
+   "Crime"
+  ]
+ },
+ "Planet Earth": {
+  "id": 1044,
+  "name": "Planet Earth",
+  "poster": "/bNcNxUtZ520d5de5s78onoiSiwQ.jpg",
+  "overview": "David Attenborough celebrates the amazing variety of the natural world in this epic documentary series, filmed over four years across 64 different countries.",
+  "firstYear": 2006,
+  "lastYear": 2006,
+  "seasons": 1,
+  "genres": [
+   "Documentary"
+  ]
+ },
+ "Band of Brothers": {
+  "id": 4613,
+  "name": "Band of Brothers",
+  "poster": "/eLdcio9HBKzsdIJGeD80oObDfkr.jpg",
+  "overview": "Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of legend. Based on Stephen E. Ambrose's acclaimed book of the same name.",
+  "firstYear": 2001,
+  "lastYear": 2001,
+  "seasons": 1,
+  "genres": [
+   "Drama",
+   "War & Politics"
+  ]
+ },
+ "Blue Planet II": {
+  "id": 74313,
+  "name": "Blue Planet II",
+  "poster": "/j1NsoYYDYHnPkRr7Enqr8tlexgO.jpg",
+  "overview": "There is nowhere more powerful and unforgiving yet more beautiful and compelling than the ocean. Join us and explore the greatest yet least known parts of our planet.",
+  "firstYear": 2017,
+  "lastYear": 2017,
+  "seasons": 1,
+  "genres": [
+   "Documentary",
+   "Family"
+  ]
+ },
+ "Cosmos: A Spacetime Odyssey": {
+  "id": 58474,
+  "name": "Cosmos",
+  "poster": "/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+  "overview": "Famed astrophysicist Neil deGrasse Tyson provides clarity for the vision of the cosmos as he voyages across the universe with never-before-told stories that delve into the scientific concepts of the laws of gravity and the origins of space and time.",
+  "firstYear": 2014,
+  "lastYear": 2020,
+  "seasons": 2,
+  "genres": [
+   "Documentary"
+  ]
+ },
+ "Cosmos": {
+  "id": 1430,
+  "name": "Cosmos: A Personal Voyage",
+  "poster": "/nOGArjE0WMkzY2GW1taJm8l9gxD.jpg",
+  "overview": "Carl Sagan covers a wide range of scientific subjects, including the origin of life and a perspective of our place in the universe.",
+  "firstYear": 1980,
+  "lastYear": 1980,
+  "seasons": 1,
+  "genres": [
+   "Documentary"
+  ]
+ },
+ "Our Planet": {
+  "id": 83880,
+  "name": "Our Planet",
+  "poster": "/wRSnArnQBmeUYb5GWDU595bGsBr.jpg",
+  "overview": "Experience our planet's natural beauty and examine how climate change impacts all living creatures in this ambitious documentary of spectacular scope.",
+  "firstYear": 2019,
+  "lastYear": 2023,
+  "seasons": 2,
+  "genres": [
+   "Documentary",
+   "Family"
+  ]
+ },
+ "Rick and Morty": {
+  "id": 60625,
+  "name": "Rick and Morty",
+  "poster": "/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+  "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+  "firstYear": 2013,
+  "lastYear": null,
+  "seasons": 9,
+  "genres": [
+   "Animation",
+   "Comedy",
+   "Sci-Fi & Fantasy",
+   "Action & Adventure"
+  ]
+ },
+ "The World at War": {
+  "id": 751,
+  "name": "The World at War",
+  "poster": "/bWdwEYQQEsz9HuXy5m95z95BYQM.jpg",
+  "overview": "A documentary series that gives a historical account of the events of World War II, from its roots in the 1920s to the aftermath and the lives it profoundly influenced.",
+  "firstYear": 1973,
+  "lastYear": 1974,
+  "seasons": 1,
+  "genres": [
+   "Documentary",
+   "War & Politics"
+  ]
+ },
+ "Life": {
+  "id": 16946,
+  "name": "Life",
+  "poster": "/9dVHGMYfI6T6p07UHfYVUk1Wzit.jpg",
+  "overview": "David Attenborough looks at the extraordinary ends to which animals and plants go in order to survive. Featuring epic spectacles, amazing TV firsts and examples of new wildlife behaviour.",
+  "firstYear": 2009,
+  "lastYear": 2009,
+  "seasons": 1,
+  "genres": [
+   "Documentary"
+  ]
+ },
+ "The Vietnam War": {
+  "id": 46434,
+  "name": "The Vietnam War",
+  "poster": "/tKt4lYTA4YmfBUH5Vtd7qqgqGBW.jpg",
+  "overview": "An immersive 360-degree narrative telling the epic story of the Vietnam War as it has never before been told on film. Featuring testimony from nearly 80 witnesses, including many Americans who fought in the war and others who opposed it, as well as Vietnamese combatants and civilians from both the winning and losing sides.",
+  "firstYear": 2017,
+  "lastYear": 2017,
+  "seasons": 1,
+  "genres": [
+   "Documentary",
+   "War & Politics"
+  ]
+ },
+ "Batman: The Animated Series": {
+  "id": 2098,
+  "name": "Batman: The Animated Series",
+  "poster": "/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg",
+  "overview": "Vowing to avenge the murder of his parents, Bruce Wayne devotes his life to wiping out crime in Gotham City as the masked vigilante \"Batman\".",
+  "firstYear": 1992,
+  "lastYear": 1995,
+  "seasons": 4,
+  "genres": [
+   "Action & Adventure",
+   "Animation",
+   "Drama",
+   "Mystery"
+  ]
+ },
+ "Scam 1992: The Harshad Mehta Story": {
+  "id": 111188,
+  "name": "Scam 1992: The Harshad Mehta Story",
+  "poster": "/cBVPwBSVNSVtQocQfyHPFqoIohj.jpg",
+  "overview": "Set in 1980's & 90's Bombay, Scam 1992 follows the life of Harshad Mehta - a stockbroker who single-handedly took the stock market to dizzying heights & his catastrophic downfall. Being directed by National Award-winning filmmaker Hansal Mehta, the series is based on journalist Debashis Basu & Sucheta Dalal's book \"The Scam\".",
+  "firstYear": 2020,
+  "lastYear": 2020,
+  "seasons": 1,
+  "genres": [
+   "Crime",
+   "Drama"
+  ]
+ },
+ "The Blue Planet": {
+  "id": 13579,
+  "name": "The Blue Planet",
+  "poster": "/jiedd3kJ2Xr4y05CdFCbu0vQPiD.jpg",
+  "overview": "Sir David Attenborough narrates this critically acclaimed series that dives deep into the marine environment of Planet Earth. Although two-thirds of the world's surface is covered with water, scientists know less about the oceans than they do about the surface of the moon. This limited series travels from various coasts to the poles to examine watery denizens ranging from the gigantic blue whale to microscopic coral polyps.",
+  "firstYear": 2001,
+  "lastYear": 2001,
+  "seasons": 1,
+  "genres": [
+   "Documentary"
+  ]
+ },
+ "Attack on Titan": {
+  "id": 1429,
+  "name": "Attack on Titan",
+  "poster": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+  "overview": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
+  "firstYear": 2013,
+  "lastYear": 2022,
+  "seasons": 4,
+  "genres": [
+   "Animation",
+   "Sci-Fi & Fantasy",
+   "Action & Adventure"
+  ]
+ },
+ "Human Planet": {
+  "id": 32062,
+  "name": "Human Planet",
+  "poster": "/bjhP5yIeyWMRMxJdLjBuiIf255X.jpg",
+  "overview": "A cinematic experience bringing you the most amazing human stories in the world. Humans and wildlife surviving in the most extreme environments on Earth.",
+  "firstYear": 2011,
+  "lastYear": 2011,
+  "seasons": 1,
+  "genres": [
+   "Documentary"
+  ]
+ },
+ "Frozen Planet": {
+  "id": 8724,
+  "name": "Frozen Planet",
+  "poster": "/jEGKNLYq6ZxtBmkQz3edaw62xMp.jpg",
+  "overview": "David Attenborough travels to the end of the earth, taking viewers on an extraordinary journey across the polar regions of our planet.",
+  "firstYear": 2011,
+  "lastYear": 2011,
+  "seasons": 1,
+  "genres": [
+   "Documentary"
+  ]
+ },
+ "The Civil War": {
+  "id": 9693,
+  "name": "The Civil War",
+  "poster": "/qs6J3T0mfAlmoOOUt0B2d4zd6je.jpg",
+  "overview": "A documentary on the American Civil War narrated by Ken Burns, covering the secession of the Confederacy to the assassination of Abraham Lincoln.",
+  "firstYear": 1990,
+  "lastYear": 1990,
+  "seasons": 1,
+  "genres": [
+   "Documentary",
+   "War & Politics"
+  ]
+ },
+ "True Detective": {
+  "id": 46648,
+  "name": "True Detective",
+  "poster": "/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+  "overview": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+  "firstYear": 2014,
+  "lastYear": null,
+  "seasons": 5,
+  "genres": [
+   "Drama",
+   "Mystery"
+  ]
+ },
+ "Under the dome": {
+  "id": 46331,
+  "name": "Under the Dome",
+  "poster": "/fwH0ePhd7m3swtCuFeubtR49ZTd.jpg",
+  "overview": "A small town is suddenly and inexplicably sealed off from the rest of the world by an enormous transparent dome. While military forces, the government and the media positioned outside of this surrounding barrier attempt to break it down, a small group of people inside attempt to figure out what the dome is, where it came from, and when (and if) it will go away.",
+  "firstYear": 2013,
+  "lastYear": 2015,
+  "seasons": 3,
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Flash": {
+  "id": 60735,
+  "name": "The Flash",
+  "poster": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+  "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+  "firstYear": 2014,
+  "lastYear": 2023,
+  "seasons": 9,
+  "genres": [
+   "Drama",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Stranger things": {
+  "id": 66732,
+  "name": "Stranger Things",
+  "poster": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+  "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+  "firstYear": 2016,
+  "lastYear": 2025,
+  "seasons": 5,
+  "genres": [
+   "Action & Adventure",
+   "Mystery",
+   "Sci-Fi & Fantasy"
+  ]
+ },
+ "Adventures of sherlock holmes": {
+  "id": 799,
+  "name": "Sherlock Holmes",
+  "poster": "/mVmGmdfdWxVZ2vSbC8De0UG5QJW.jpg",
+  "overview": "Sherlock Holmes, along with his friend Dr. Watson, uses his abilities to take on cases by private clients and those that the Scotland Yard are unable to solve.",
+  "firstYear": 1984,
+  "lastYear": 1994,
+  "seasons": 7,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ]
+ },
+ "Legoin": {
+  "id": 67195,
+  "name": "Legion",
+  "poster": "/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
+  "overview": "David Haller, AKA Legion, is a troubled young man who may be more than human. Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals for years. But after a strange encounter with a fellow patient, he’s confronted with the possibility that the voices he hears and the visions he sees might be real.",
+  "firstYear": 2017,
+  "lastYear": 2019,
+  "seasons": 3,
+  "genres": [
+   "Action & Adventure",
+   "Sci-Fi & Fantasy",
+   "Drama"
+  ]
+ },
+ "Braking Bad": {
+  "id": 1396,
+  "name": "Breaking Bad",
+  "poster": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+  "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+  "firstYear": 2008,
+  "lastYear": 2013,
+  "seasons": 5,
+  "genres": [
+   "Drama",
+   "Crime"
+  ]
+ }
+}
