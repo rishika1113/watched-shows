@@ -1277,7 +1277,7 @@
    "Mystery"
   ]
  },
- "Legoin": {
+ "Legion": {
   "id": 67195,
   "name": "Legion",
   "poster": "/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
@@ -1289,19 +1289,6 @@
    "Action & Adventure",
    "Sci-Fi & Fantasy",
    "Drama"
-  ]
- },
- "Braking Bad": {
-  "id": 1396,
-  "name": "Breaking Bad",
-  "poster": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-  "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-  "firstYear": 2008,
-  "lastYear": 2013,
-  "seasons": 5,
-  "genres": [
-   "Drama",
-   "Crime"
   ]
  }
 }

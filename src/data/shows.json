@@ -12,7 +12,7 @@
    "title": "Sherlock",
    "start": 2010,
    "end": 2017,
-   "imdb": 9.0
+   "imdb": 9
   },
   {
    "rank": 3,
@@ -33,7 +33,7 @@
    "title": "Arcane",
    "start": 2021,
    "end": null,
-   "imdb": 9.0
+   "imdb": 9
   },
   {
    "rank": 6,
@@ -89,7 +89,7 @@
    "title": "Travelers",
    "start": 2016,
    "end": 2018,
-   "imdb": 8.0
+   "imdb": 8
   },
   {
    "rank": 14,
@@ -180,14 +180,14 @@
    "title": "11.22.63",
    "start": 2016,
    "end": null,
-   "imdb": 8.0
+   "imdb": 8
   },
   {
    "rank": 27,
    "title": "Scorpion",
    "start": 2014,
    "end": 2016,
-   "imdb": 7.0
+   "imdb": 7
   },
   {
    "rank": 28,
@@ -292,7 +292,7 @@
    "title": "Victorious",
    "start": 2010,
    "end": 2013,
-   "imdb": 7.0
+   "imdb": 7
   },
   {
    "rank": 43,
@@ -306,7 +306,7 @@
    "title": "Lucifer",
    "start": 2016,
    "end": 2021,
-   "imdb": 8.0
+   "imdb": 8
   },
   {
    "rank": 45,
@@ -334,7 +334,7 @@
    "title": "Joey",
    "start": 2004,
    "end": 2006,
-   "imdb": 6.0
+   "imdb": 6
   },
   {
    "rank": 49,
@@ -499,7 +499,7 @@
   },
   {
    "rank": 72,
-   "title": "Legoin",
+   "title": "Legion",
    "start": null,
    "end": null,
    "imdb": null
@@ -513,7 +513,7 @@
   },
   {
    "rank": 74,
-   "title": "Braking Bad",
+   "title": "Breaking Bad",
    "start": null,
    "end": null,
    "imdb": null
@@ -528,19 +528,7 @@
  ],
  "discontinued": [
   {
-   "title": "Prison Break"
-  },
-  {
-   "title": "Arrow"
-  },
-  {
    "title": "Under the dome"
-  },
-  {
-   "title": "Flash"
-  },
-  {
-   "title": "Stranger things"
   },
   {
    "title": "Adventures of sherlock holmes"
@@ -550,11 +538,6 @@
   {
    "title": "Planet Earth II",
    "start": 2016,
-   "imdb": 9.4
-  },
-  {
-   "title": "Breaking Bad",
-   "start": 2008,
    "imdb": 9.4
   },
   {
@@ -588,11 +571,6 @@
    "imdb": 9.2
   },
   {
-   "title": "Game of Thrones",
-   "start": 2011,
-   "imdb": 9.1
-  },
-  {
    "title": "Rick and Morty",
    "start": 2013,
    "imdb": 9.1
@@ -605,27 +583,22 @@
   {
    "title": "Life",
    "start": 2009,
-   "imdb": 9.0
+   "imdb": 9
   },
   {
    "title": "The Vietnam War",
    "start": 2017,
-   "imdb": 9.0
+   "imdb": 9
   },
   {
    "title": "Batman: The Animated Series",
    "start": 1992,
-   "imdb": 9.0
+   "imdb": 9
   },
   {
    "title": "Scam 1992: The Harshad Mehta Story",
    "start": 2020,
-   "imdb": 9.0
-  },
-  {
-   "title": "Arcane",
-   "start": 2021,
-   "imdb": 8.9
+   "imdb": 9
   },
   {
    "title": "The Blue Planet",
@@ -645,11 +618,6 @@
   {
    "title": "Frozen Planet",
    "start": 2011,
-   "imdb": 8.9
-  },
-  {
-   "title": "Death Note",
-   "start": 2006,
    "imdb": 8.9
   },
   {
